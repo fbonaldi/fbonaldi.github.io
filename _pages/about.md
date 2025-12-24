@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Francesco Bonaldi - Webpage"
+title: ""
 author_profile: true
 redirect_from: 
   - /about/
