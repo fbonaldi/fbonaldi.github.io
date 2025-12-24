@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # the available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "Home"
+title                    : "Francesco Bonaldi"
 title_separator          : "-"
 name                     : &name ""
 description              : &description "Francesco Bonaldi's webpage"   # Update this with a general description of your site, this is the default if not overridden by a page
