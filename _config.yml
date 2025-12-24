@@ -26,8 +26,8 @@ author:
   avatar           : "profile.png"
   name             : "Your Sidebar Name"
   pronouns         : # example: "she/her"  
-  #bio              : "Short biography for the left-hand sidebar"
-  #location         : "Earth"
+  bio              : "Short biography for the left-hand sidebar"
+  location         : "Earth"
   employer         : "University of Perpignan"
   uri              : # URL
   email            : "francesco.bonaldi@univ-perp.fr" 
