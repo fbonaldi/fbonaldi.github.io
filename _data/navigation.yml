@@ -20,6 +20,9 @@ main:
 
   - title: "Teaching"
     url: /teaching/    
+
+  - title: "Numerical simulations"
+    url: /numerical_simulations/
     
   #- title: "Portfolio"
    # url: /portfolio/
