@@ -1,15 +1,33 @@
-<!DOCTYPE html>
-<html>
-<body>
+---
+layout: compress
+---
 
-<button id="dark-toggle">toggle</button>
+{% include base_path %}
 
-<script>
-document.getElementById("dark-toggle").onclick = function () {
-  document.body.style.background = "black";
-  document.body.style.color = "white";
-};
-</script>
+<!doctype html>
+<html lang="{{ site.locale | slice: 0,2 }}" class="no-js"{% if site.site_theme == "dark" %} data-theme="dark"{% endif %}>
+  <head>
+    {% include head.html %}
+    {% include head/custom.html %}
+  </head>
 
-</body>
+  <body>
+
+    {% include browser-upgrade.html %}
+    {% include masthead.html %}
+
+    {{ content }}
+
+{% comment %}
+    <div class="page__footer">
+      <footer>
+        {% include footer/custom.html %}
+        {% include footer.html %}
+      </footer>
+    </div>
+{% endcomment %}
+
+    {% include scripts.html %}
+
+  </body>
 </html>
