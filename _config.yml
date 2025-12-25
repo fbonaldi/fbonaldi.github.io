@@ -29,8 +29,8 @@ author:
   bio              : "Maître de Conférences HDR (Associate Professor) in Applied Mathematics"
   location         : #"Perpignan, France"
   employer         : "University of Perpignan, France"
-  uri              : # URL
-  email            : "francesco.bonaldi@univ-perp.fr" 
+  uri              : "francesco.bonaldi@univ-perp.fr"
+  #email            : "francesco.bonaldi@univ-perp.fr" 
 
   # Academic websites
   academia         : # URL
