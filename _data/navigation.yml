@@ -9,8 +9,8 @@
 
 main:
 
-  - title: "Short CV"
-    url: /cv/
+  #- title: "Short CV"
+   # url: /cv/
     
   - title: "Research"
     url: /publications/
