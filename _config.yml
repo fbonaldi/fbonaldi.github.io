@@ -30,7 +30,7 @@ author:
   location         : #"Perpignan, France"
   employer         : "University of Perpignan, France"
   uri              : # "francesco.bonaldi@univ-perp.fr"
-  email            : &email "francesco.bonaldi@univ-perp.fr" 
+  email            : "[francesco.bonaldi@univ-perp.fr](francesco.bonaldi@univ-perp.fr)"
 
   # Academic websites
   academia         : # URL
