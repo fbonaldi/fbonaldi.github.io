@@ -12,7 +12,7 @@ I am **Maître de Conférences HDR** (_Habilité à Diriger des Recherches_), eq
 I am the Principal Investigator of the ANR projet [MaNStarT](https://anr.fr/Projet-ANR-24-CE46-7619).
 &nbsp;
 
-### Detailed CV: &nbsp; [<i class="fa-sharp fa-solid fa-file-pdf"></i>](url)
+### Detailed CV: &nbsp; [<i class="fa-sharp fa-solid fa-file-pdf"></i>](files/CV_New_Eng.pdf)
 ---
 ### Short CV
 
