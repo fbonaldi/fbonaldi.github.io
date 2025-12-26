@@ -12,9 +12,9 @@ I am currently **Maître de Conférences HDR** (_Habilité à Diriger des Recher
 My publications and preprints are available [here](/publications/). My Ph.D. thesis manuscript, in French, can be found here (abstract here and defense slides in French here). My Ph.D. defense report (rapport de soutenance, in French) is available here.
 &nbsp;
 
+## Detailed CV: <i class="fa-sharp fa-solid fa-file-pdf"></i>
 
-Short CV
-===
+## Short CV
 
 * 2022–present: Maître de Conferences at the [Laboratoire de Modélisation Pluridisciplinaire et Simulations (LAMPS)](https://lamps.univ-perp.fr/), Université de Perpignan Via Domitia. I defended my _Habilitation à Diriger des Recherches_ in October 2024.
 * 2021–2022: Postdoctoral researcher at [Institut Montpelliérain Alexander Grothendieck (IMAG)](https://imag.umontpellier.fr/), Université de Montpellier, working with [Daniele A. Di Pietro](https://imag.umontpellier.fr/~di-pietro/) on Polytopal exterior calculus and Discrete De Rham complexes.
