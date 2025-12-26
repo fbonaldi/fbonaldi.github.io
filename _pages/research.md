@@ -118,6 +118,6 @@ Publications and preprints
     *11th World Congr. on Computational Mechanics (WCCM XI)*, Barcelona, Spain, July 20-25, 3357-3368.
     E. Onate, J. Oliver and A. Huerta (Eds), ISBN/ISSN : 9788494284472, 2014.
     
-**Ph.D. Thesis**
+**Ph.D. Thesis**<br>
 *Modélisation mathématique et numérique de structures en présence de couplages linéaires multiphysiques* ﻿([link](https://theses.hal.science/tel-01786352/)).
 
