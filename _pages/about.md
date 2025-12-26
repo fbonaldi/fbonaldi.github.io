@@ -12,7 +12,7 @@ I am currently **Maître de Conférences HDR** (_Habilité à Diriger des Recher
 My publications and preprints are available [here](/publications/). My Ph.D. thesis manuscript, in French, can be found here (abstract here and defense slides in French here). My Ph.D. defense report (rapport de soutenance, in French) is available here.
 &nbsp;
 
-### Detailed CV: [<i class="fa-sharp fa-solid fa-file-pdf"></i>](url)
+### Detailed CV:    [<i class="fa-sharp fa-solid fa-file-pdf"></i>](url)
 
 ### Short CV
 
