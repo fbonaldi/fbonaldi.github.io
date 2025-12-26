@@ -17,7 +17,7 @@ At the **University of Perpignan**:
     Lectures and tutorials for third-year undergraduate students in Mathematics, 2023-2024.
   * _Éléments de Mécanique des Milieux Continus_ (M1) – 38 hours<br>
     Lectures and tutorials for first-year Master's students, since 2023-2024.
-  *    Calcul numérique (M1) – 38 hours <br>
+  *  _Calcul numérique_ (M1) – 38 hours <br>
     Lectures and tutorials for first-year Master's students, 2022-2023.
   *   _Outils mathématiques pour le numérique_ (M1) – 40 hours<br>
     Lectures and tutorials for first-year Master's students, since 2022-2023.
