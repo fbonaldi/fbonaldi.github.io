@@ -24,8 +24,8 @@ main:
   - title: "Students"
     url: /students/
 
-  - title: "Numerical simulations"
-    url: /numerical_simulations/
+  #- title: "Numerical simulations"
+   # url: /numerical_simulations/
     
   #- title: "Portfolio"
    # url: /portfolio/
