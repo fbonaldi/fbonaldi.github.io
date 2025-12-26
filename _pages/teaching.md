@@ -56,4 +56,4 @@ masses and $$n$$ springs, wave equation, Lorenz attractor and butterfly effect, 
 
 * _Analyse_ L3 – 36 hours (instructor: ﻿﻿﻿Thierry Mignon).<br>
 Exercise classes for third-year students in Mathematics, 2013-2014.<br>
-Subjects covered: normed spaces, multilinear applications, continuity, differentiability, local extrema, $$C^1$$ functions, diffeomorphisms, local inversion, implicit functions.
+Subjects covered: normed spaces, multilinear applications, continuity, differentiability, local extrema, $C^1$ functions, diffeomorphisms, local inversion, implicit functions.
