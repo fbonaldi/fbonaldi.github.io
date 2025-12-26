@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently **Maître de Conférences HDR** (_Habilité à Diriger des Recherches_), equivalent to Associate Professor, in Applied Mathematics at the [University of Perpignan](http://www.univ-perp.fr), France.<br> My scientific interests are focused on applications in Continuum Mechanics, both from the computational and theoretical viewpoints.<br> My publications and preprints are available [here](/research/).
+I am currently **Maître de Conférences HDR** (_Habilité à Diriger des Recherches_), equivalent to Associate Professor, in Applied Mathematics at the [University of Perpignan](http://www.univ-perp.fr), France.<br> My scientific interests are focused on applications in Continuum Mechanics, both from the computational and theoretical viewpoints. My publications and preprints are available [here](/research/).
 &nbsp;
 
 ### Detailed CV: &nbsp; [<i class="fa-sharp fa-solid fa-file-pdf"></i>](url)
