@@ -13,6 +13,7 @@ My publications and preprints are available [here](/publications/). My Ph.D. the
 &nbsp;
 
 ### Detailed CV: &nbsp; [<i class="fa-sharp fa-solid fa-file-pdf"></i>](url)
+---
 
 ### Short CV
 
