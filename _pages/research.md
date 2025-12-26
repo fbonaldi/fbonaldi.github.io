@@ -5,8 +5,6 @@ author_profile: true
 redirect_from: 
 ---
 
-&nbsp;
-
 Scientific interests
 ===
 
