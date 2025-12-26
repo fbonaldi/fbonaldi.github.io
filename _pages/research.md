@@ -5,9 +5,12 @@ author_profile: true
 redirect_from: 
 ---
 
+&nbsp;
+
 Scientific interests
-==
-Scientific interests
+===
+
+
 From a general viewpoint, I am interested in:
 
 * Numerical and theoretical aspects of PDEs
