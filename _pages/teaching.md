@@ -47,12 +47,12 @@ At the **University of Montpellier** (during my PhD program):
 
  *  _Calcul Différentiel et Équations Différentielles_ (L3) – 76 hours (instructor: Paul-Émile Paradan).<br>
     Exercise classes for third-year students in Mathematics, 2014 to 2016.<br>
-    Subjects covered: normed spaces, multilinear applications, continuity, differentiability, $$C^1$$ functions, contraction mappings, local extrema, free and constrained optimization, diffeomorphisms, local inversion, implicit functions, theory of ordinary differential equations.
+    Subjects covered: normed spaces, multilinear applications, continuity, differentiability, $C^1$ functions, contraction mappings, local extrema, free and constrained optimization, diffeomorphisms, local inversion, implicit functions, theory of ordinary differential equations.
 
 * _Modélisation Mathématique en Mécanique_ (L3) – 78 hours (instructors: Françoise Krasucki and Pascal Azerad).<br>
 Lab sessions for third-year students in Mathematics, Mechanics and Mechanical Engineering, 2013-2016.<br>
-Subjects covered: Numerical resolution with MATLAB of classical ordinary and partial differential equations systems (system with $$n$$
-masses and $$n$$ springs, wave equation, Lorenz attractor and butterfly effect, heat equation, Poisson's problem).
+Subjects covered: Numerical resolution with MATLAB of classical ordinary and partial differential equations systems (system with $n$
+masses and $n$ springs, wave equation, Lorenz attractor and butterfly effect, heat equation, Poisson's problem).
 
 * _Analyse_ L3 – 36 hours (instructor: ﻿﻿﻿Thierry Mignon).<br>
 Exercise classes for third-year students in Mathematics, 2013-2014.<br>
