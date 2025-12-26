@@ -14,7 +14,6 @@ My publications and preprints are available [here](/publications/). My Ph.D. the
 
 ### Detailed CV: &nbsp; [<i class="fa-sharp fa-solid fa-file-pdf"></i>](url)
 ---
-
 ### Short CV
 
 * 2022–present: Maître de Conferences at the [Laboratoire de Modélisation Pluridisciplinaire et Simulations (LAMPS)](https://lamps.univ-perp.fr/), Université de Perpignan Via Domitia. I defended my _Habilitation à Diriger des Recherches_ in October 2024.
