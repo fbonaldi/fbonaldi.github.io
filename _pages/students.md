@@ -1,6 +1,6 @@
 ---
 permalink: /students/
-title: "Students"
+title: ""
 author_profile: true
 redirect_from:
 ---
