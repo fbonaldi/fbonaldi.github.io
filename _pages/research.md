@@ -23,6 +23,7 @@ Current research topics include:
 * Gradient Discretization Method
 * Discretization methods on polytopal grids (Discontinuous Galerkin, Hybrid High-Order)
 
+&nbsp;
 
 Publications and preprints
 ===
