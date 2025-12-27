@@ -3,8 +3,9 @@ permalink: /
 title: ""
 author_profile: true
 redirect_from: 
-  - /about/
+<!--  - /about/
   - /about.html
+-->
 ---
 
 I am **Maître de Conférences HDR** (_Habilité à Diriger des Recherches_), equivalent to Associate Professor, in **Applied Mathematics** at the [University of Perpignan](http://www.univ-perp.fr), France.<br> My scientific interests are focused on applications in **Continuum Mechanics**, both from the computational and theoretical viewpoints. My publications and preprints are available [here](/research/).
