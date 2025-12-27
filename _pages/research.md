@@ -47,7 +47,7 @@ Publications and preprints
 1. F. Bonaldi, J. Droniou, and R. Masson.<br>
     **Numerical analysis of a mixed-dimensional poromechanical model
     with frictionless contact at matrix–fracture interfaces**.<br>
-    *Math. Comp.* 93, 2024 ([link](dx.doi.org/10.1090/mcom/3949)).
+    *Math. Comp.* 93, 2024 ([link](https://doi.org/10.1090/mcom/3949)).
    
 1.  M. Barboteu, F. Bonaldi, D. Danan, and S. El-Hadri.<br>
     **An improved normal compliance method for dynamic hyperelastic
