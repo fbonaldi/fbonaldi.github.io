@@ -12,7 +12,7 @@ At the **University of Perpignan**:
 
   * _Analyse Numérique_ (L3) – 62 hours<br>
     Lectures, tutorials, and lab sessions for third-year undergraduate students in Mathematics, since 2022-2023.
-  * _Initiation à la Modélisation_ (L3) – 12 hours (instructor)<br>
+  * _Initiation à la Modélisation_ (L3) – 12 hours<br>
     Lectures and tutorials for third-year undergraduate students in Mathematics, 2023-2024.
   * _Éléments de Mécanique des Milieux Continus_ (M1) – 38 hours<br>
     Lectures and tutorials for first-year Master's students, since 2023-2024.
