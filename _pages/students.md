@@ -2,7 +2,6 @@
 permalink: /students/
 title: ""
 author_profile: true
-redirect_from:
 ---
 
 Postdoctoral fellows
