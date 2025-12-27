@@ -42,7 +42,7 @@ Publications and preprints
 
 1. M. Barboteu, F. Bonaldi, S. Dumont, and C. Mahmoud.<br>
    **An energy-consistent discretization of hyper-viscoelastic contact models for soft tissues**.<br>
-*Comput. Methods Appl. Mech. Engrg.* 421, 2024 ([link](https://www.sciencedirect.com/science/article/pii/S0045782524000410))
+*Comput. Methods Appl. Mech. Engrg.* 421, 2024 ([link](https://www.sciencedirect.com/science/article/pii/S0045782524000410)).
         
 1. F. Bonaldi, J. Droniou, and R. Masson.<br>
     **Numerical analysis of a mixed-dimensional poromechanical model
