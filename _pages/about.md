@@ -15,7 +15,7 @@ I am the Principal Investigator of the ANR projet [**MaNStarT**](https://anr.fr/
 ### Short CV
 
 * 2022–present: Maître de Conferences at [Laboratoire de Modélisation Pluridisciplinaire et Simulations (LAMPS)](https://lamps.univ-perp.fr/), Université de Perpignan Via Domitia.
-  * [_Habilitation à Diriger des Recherches_](https://doctorat-hdr.univ-perp.fr/medias/fichier/avis-soutenance-hdr_1728913127290-pdf?ID_FICHE=1041308&INLINE=FALSE) defended in Oct 2024.
+  * [_Habilitation à Diriger des Recherches_](https://doctorat-hdr.univ-perp.fr/medias/fichier/avis-soutenance-hdr_1728913127290-pdf?ID_FICHE=1041308) defended in Oct 2024.
   * Deputy Director of the CNRS Research Federation [**OcciMath**](https://occi.math.cnrs.fr/), Jan 2024–Aug 2026.
 * 2021–2022: Postdoctoral researcher at [Institut Montpelliérain Alexander Grothendieck (IMAG)](https://imag.umontpellier.fr/), Université de Montpellier, working with [Daniele A. Di Pietro](https://imag.umontpellier.fr/~di-pietro/) on Polytopal exterior calculus and Discrete De Rham complexes.
 * 2019–2021: Postdoctoral researcher at [Inria Côte d'Azur](https://www.inria.fr/en/inria-centre-universite-cote-azur) & [Laboratoire J. A. Dieudonné (LJAD)](https://math.univ-cotedazur.fr/), Université Côte d'Azur, working in the Inria COFFEE team in collaboration with [Roland Masson](https://math.unice.fr/~massonr/), [Jérôme Droniou](https://imag.umontpellier.fr/~droniou/) (Monash University, Melbourne), Konstantin Brenner, and Laurent Trenty, on two-phase flows in fractured porous media coupled with mechanical deformation. Project funded by [Andra](https://www.andra.fr).
