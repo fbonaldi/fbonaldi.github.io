@@ -41,10 +41,3 @@
     "vendor/font-awesome/solid",
     "vendor/font-awesome/brands"
 ;
-
-/* === Follow button: BLACK background (LIGHT THEME only) === */
-html[data-theme="light"] .btn--inverse {
-  background-color: #000000;
-  border-color: #000000;
-  color: #ffffff;
-}
