@@ -41,15 +41,3 @@
     "vendor/font-awesome/solid",
     "vendor/font-awesome/brands"
 ;
-
-/* === FORCE Follow button BLACK (LIGHT THEME) === */
-html[data-theme="light"] a.btn {
-  background: #000000 !important;
-  border: 1px solid #000000 !important;
-  color: #ffffff !important;
-}
-
-html[data-theme="light"] a.btn:hover {
-  background: #222222 !important;
-  border-color: #222222 !important;
-}
