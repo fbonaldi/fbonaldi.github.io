@@ -37,7 +37,7 @@ At the **University of Montpellier**:
     Lab sessions for second-year students in Mathematics, 2021-2022.
 
 
-At the **University of Nice Côte d'Azur** :
+At the **University of Nice Côte d'Azur**:
 
  *  _Résolution Numérique de Systèmes d’Équations Linéaires et Non Linéaires_ (L2) – 40 hours
     (instructor: Roland Masson). <br>
