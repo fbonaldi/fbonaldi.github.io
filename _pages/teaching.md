@@ -13,7 +13,7 @@ At the **University of Perpignan**:
 
 * Instructor of the following classes:
 
-  * _Analyse Numérique_ (L3) – 62 hours<br>
+  * _Analyse et Calcul Numérique_ (L3) – 62 hours<br>
     Lectures, tutorials, and lab sessions for third-year undergraduate students in Mathematics, since 2022-2023.
   * _Initiation à la Modélisation_ (L3) – 12 hours<br>
     Lectures and tutorials for third-year undergraduate students in Mathematics, 2023-2024.
