@@ -10,7 +10,7 @@ About me
 
 I am **Maître de Conférences HDR** (_Habilité à Diriger des Recherches_), equivalent to Associate Professor, in **Applied Mathematics** at the [University of Perpignan](http://www.univ-perp.fr), France.<br> My scientific interests are focused on applications in **Continuum Mechanics**, both from the computational and theoretical viewpoints. My publications and preprints are available [here](/research/).
 
-I am the Principal Investigator of the ANR projet [**MaNStarT**](https://anr.fr/Projet-ANR-24-CE46-7619) (_Mathematical, mechanical, and Numerical modeling of Stents in arterial Tissues_).
+I am the Principal Investigator of the ANR project [**MaNStarT**](https://anr.fr/Projet-ANR-24-CE46-7619) (_Mathematical, mechanical, and Numerical modeling of Stents in arterial Tissues_).
 &nbsp;
 
 ### Complete CV &nbsp; [<i class="fa-sharp fa-solid fa-file-pdf"></i>](files/CV_New_Eng.pdf)
