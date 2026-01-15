@@ -44,7 +44,7 @@
 
 
 @media (max-width: 768px) {
-  .author__map iframe {
-    height: 120px !important;
+  .desktop-only {
+    display: none !important;
   }
 }
