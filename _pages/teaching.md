@@ -4,7 +4,7 @@ title: ""
 author_profile: true
 ---
 
-Teaching
+Teaching experience
 ===
 
 At the **University of Perpignan**:
