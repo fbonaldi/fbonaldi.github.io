@@ -14,7 +14,7 @@ My scientific interests are focused on applications in **Continuum Mechanics**, 
 I am the Principal Investigator of the ANR project [**MaNStarT**](https://anr.fr/Projet-ANR-24-CE46-7619) (_Mathematical, mechanical, and Numerical modeling of Stents in arterial Tissues_).
 &nbsp;
 
-### Complete CV &nbsp; [<i class="fa-sharp fa-solid fa-file-pdf fa-1.5x"></i>](files/CV_New_Eng.pdf)
+### Complete CV &nbsp; [<i class="fa-sharp fa-solid fa-file-pdf fa-lg"></i>](files/CV_New_Eng.pdf)
 ---
 ### Short CV
 
