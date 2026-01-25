@@ -19,7 +19,7 @@ I am the Principal Investigator of the ANR project [**MaNStarT**](https://anr.fr
 ### Short CV
 
 * 2022–now: Maître de Conférences at [Laboratoire de Modélisation Pluridisciplinaire et Simulations (LAMPS)](https://lamps.univ-perp.fr/), Université de Perpignan Via Domitia.
-  * [Habilitation à Diriger des Recherches](https://doctorat-hdr.univ-perp.fr/medias/fichier/avis-soutenance-hdr_1728913127290-pdf?ID_FICHE=1041308) defended in Oct 2024.
+  * [**Habilitation à Diriger des Recherches**](https://doctorat-hdr.univ-perp.fr/medias/fichier/avis-soutenance-hdr_1728913127290-pdf?ID_FICHE=1041308) defended in Oct 2024.
   * PI of the ANR JCJC project [**MaNStarT**](https://anr.fr/Projet-ANR-24-CE46-7619), 2025–2029. Funding: ~244 k€.
   * Deputy Director of the CNRS Research Federation [**OcciMath**](https://occi.math.cnrs.fr/), Jan 2024–Aug 2026.
 * 2021–2022: Postdoctoral researcher at [Institut Montpelliérain Alexander Grothendieck (IMAG)](https://imag.umontpellier.fr/), Université de Montpellier, working with [Daniele A. Di Pietro](https://imag.umontpellier.fr/~di-pietro/) on Polytopal exterior calculus and Discrete De Rham complexes.
