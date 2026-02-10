@@ -48,3 +48,15 @@
     display: none !important;
   }
 }
+
+ol.reversed {
+  counter-reset: item;
+}
+
+ol.reversed > li {
+  counter-increment: item -1;
+}
+
+ol.reversed > li::marker {
+  content: counter(item) ". ";
+}
