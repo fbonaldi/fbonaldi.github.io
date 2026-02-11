@@ -17,7 +17,7 @@ From a general viewpoint, I am interested in:
 Current and recent research topics include:
 
 * Non-linear and non-smooth computational mechanics: large deformations, contact, plasticity, adhesion
-* Polytopal exterior calculus and discrete De Rham complexes
+* Polytopal exterior calculus and discrete de Rham complexes
 * Poroelasticity with fractures in the presence of multi-phase flows
 * Gradient Discretization Method
 * Discretization methods on polytopal grids (Discontinuous Galerkin, Hybrid High-Order)
