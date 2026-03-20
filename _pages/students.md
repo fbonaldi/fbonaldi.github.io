@@ -12,7 +12,7 @@ PhD students
 
 Postdoctoral fellows
 ===
-* **Thuong Nguyen**, since Jan 2026 (main advisor; co-advised with Mikaël Barboteu and Serge Dumont). Thuong Nguyen's postdoc is funded by my ANR grant [**MaNStarT**](https://anr.fr/Projet-ANR-24-CE46-7619).
+* **Vo Anh Thuong Nguyen**, since Jan 2026 (main advisor; co-advised with Mikaël Barboteu and Serge Dumont). Thuong Nguyen's postdoc is funded by my ANR grant [**MaNStarT**](https://anr.fr/Projet-ANR-24-CE46-7619).
 
 Master's students
 ===
