@@ -6,7 +6,7 @@ author_profile: true
 
 PhD students
 ===
-* **Rawane Mansour**, since Jan 2025 (main advisor; co-advisors: Mikaël Barboteu and Serge Dumont). Rawane Mansour's thesis is funded by
+* **Rawane Mansour**, since Jan 2025 (main advisor; co-advisors: Mikaël Barboteu and Serge Dumont). Rawane Mansour's doctorate is funded by
   my ANR grant [**MaNStarT**](https://anr.fr/Projet-ANR-24-CE46-7619).
 * **Thach-Hoang Nguyen**, since Oct 2024 (co-advised with Mikaël Barboteu, Serge Dumont, and Franck Jourdan).
 
