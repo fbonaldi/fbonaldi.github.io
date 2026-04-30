@@ -27,8 +27,12 @@ Current and recent research topics include:
 Publications and preprints
 ===
 
+**Preprints**
 
-
+1. M. Barboteu, F. Bonaldi, S. Dumont, F. Jourdan, R. Mansour, T.H. Nguyen, and V.A. Nguyen.<br>
+**A unified semi-smooth Newton–PDAS framework for large-strain SMA contact:
+superelastic and plastic transformation with application to stent deployment.**<br>
+Submitted, 2026 ([link](https://doi.org/10.2139/ssrn.6580126))
 
 **Refereed journal papers**
 
