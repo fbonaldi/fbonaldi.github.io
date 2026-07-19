@@ -33,6 +33,11 @@ Publications and preprints
 **Discrete energy consistency for dynamic finite-strain frictional contact models with inelastic transformation**.<br>
 Submitted, 2026 ([link](https://hal.science/hal-05633520)).
 
+1. M. Barboteu, F. Bonaldi, S. Dumont, R. Mansour, and V.A.T. Nguyen.<br>
+**Semi-smooth Newton, Nitsche,
+Penalty and Augmented Lagrangian methods for dynamic hyperelastic contact: a GetFEM-based
+benchmark study**.<br>
+Submitted, 2026.
 
 **Refereed journal papers**
 
