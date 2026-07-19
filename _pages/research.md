@@ -29,12 +29,17 @@ Publications and preprints
 
 **Preprints**
 
-1. M. Barboteu, F. Bonaldi, S. Dumont, F. Jourdan, R. Mansour, T.H. Nguyen, and V.A. Nguyen.<br>
-**A unified semi-smooth Newton–PDAS framework for large-strain SMA contact:
-superelastic and plastic transformation with application to stent deployment.**<br>
-Submitted, 2026 ([link](https://doi.org/10.2139/ssrn.6580126))
+1. M. Barboteu, F. Bonaldi, S. Dumont, R. Mansour, and V.A.T. Nguyen.<br>
+**Discrete energy consistency for dynamic finite-strain frictional contact models with inelastic transformation**.<br>
+Submitted, 2026 ([link](https://hal.science/hal-05633520)).
+
 
 **Refereed journal papers**
+
+1. M. Barboteu, F. Bonaldi, S. Dumont, F. Jourdan, R. Mansour, T.H. Nguyen, and V.A.T. Nguyen.<br>
+**A unified semi-smooth Newton–PDAS framework for finite-strain contact with SMA-inspired transformation**.<br>
+*Comput. Methods Appl. Mech. Engrg.* 461, 2026 ([link](https://www.sciencedirect.com/science/article/pii/S0045782524000410)).
+
 
 1. M. Barboteu, F. Bonaldi, S. Dumont, and R. Mansour.<br>
    **An energy-consistent model of persistent adhesive contact for hyperelastic materials: Theory, discretization, and applications**.<br>
