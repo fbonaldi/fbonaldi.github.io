@@ -127,9 +127,10 @@ benchmark study**.<br>
     **Two-Phase Darcy Flows in Fractured and Deformable Porous Media,
     Convergence Analysis and Iterative Coupling**.<br>
     Conference Proceedings, *ECMOR XVII*, Volume 2020, 1–20.
+    
 1.  F. Bonaldi, F. Krasucki, G. Geymonat, and M. Serpilli.<br>
     **Temperature influence on smart structures: a first approach**.<br>
-    *11th World Congr. on Computational Mechanics (WCCM XI)*, Barcelona, Spain, July 20-25, 3357-3368.
+    *11th World Congr. on Computational Mechanics (WCCM XI)*, Barcelona, Spain, July 20-25, 3357-3368.<br>
     E. Oñate, J. Oliver and A. Huerta (Eds), ISBN/ISSN : 9788494284472, 2014.
     
 **Ph.D. Thesis**<br>
