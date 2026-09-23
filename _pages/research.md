@@ -27,19 +27,19 @@ Current and recent research topics include:
 Publications and preprints
 ===
 
-**Preprints**
+<!-- **Preprints** -->
+
+**Refereed journal papers**
 
 1. M. Barboteu, F. Bonaldi, S. Dumont, R. Mansour, and V.A.T. Nguyen.<br>
 **Discrete energy consistency for dynamic finite-strain frictional contact models with inelastic transformation**.<br>
-Submitted, 2026 ([link](https://hal.science/hal-05633520)).
+*Nonlinear Analysis: Real World Applications*, 2027 ([link](https://www.sciencedirect.com/science/article/pii/S1468121826001392)).
 
 1. M. Barboteu, F. Bonaldi, S. Dumont, R. Mansour, and V.A.T. Nguyen.<br>
 **Semi-smooth Newton, Nitsche,
 Penalty and Augmented Lagrangian methods for dynamic hyperelastic contact: a GetFEM-based
 benchmark study**.<br>
-Submitted, 2026.
-
-**Refereed journal papers**
+*Mechanics Research Communications*, 2026 ([link](https://www.sciencedirect.com/science/article/pii/S0093641326002028?via%3Dihub)).
 
 1. M. Barboteu, F. Bonaldi, S. Dumont, F. Jourdan, R. Mansour, T.H. Nguyen, and V.A.T. Nguyen.<br>
 **A unified semi-smooth Newton–PDAS framework for finite-strain contact with SMA-inspired transformation**.<br>
