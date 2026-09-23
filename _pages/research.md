@@ -115,22 +115,22 @@ benchmark study**.<br>
 
 **Book chapters**
 
-1.  F. Bonaldi, K. Brenner, J. Droniou, and R. Masson.
+1.  F. Bonaldi, K. Brenner, J. Droniou, and R. Masson.<br>
     **The Gradient Discretisation Method for Two-phase
-    Discrete Fracture Matrix Models in Deformable Porous Media**.
+    Discrete Fracture Matrix Models in Deformable Porous Media**.<br>
     *Finite Volumes for Complex Applications IX Proc.*, 2020.
 
 
 **Conference proceedings**
 
-1.  F. Bonaldi, K. Brenner, J. Droniou, and R. Masson.
+1.  F. Bonaldi, K. Brenner, J. Droniou, and R. Masson.<br>
     **Two-Phase Darcy Flows in Fractured and Deformable Porous Media,
-    Convergence Analysis and Iterative Coupling**.
+    Convergence Analysis and Iterative Coupling**.<br>
     Conference Proceedings, *ECMOR XVII*, Volume 2020, 1–20.
-1.  F. Bonaldi, F. Krasucki, G. Geymonat, and M. Serpilli.
-    **Temperature influence on smart structures: a first approach**.
+1.  F. Bonaldi, F. Krasucki, G. Geymonat, and M. Serpilli.<br>
+    **Temperature influence on smart structures: a first approach**.<br>
     *11th World Congr. on Computational Mechanics (WCCM XI)*, Barcelona, Spain, July 20-25, 3357-3368.
-    E. Onate, J. Oliver and A. Huerta (Eds), ISBN/ISSN : 9788494284472, 2014.
+    E. Oñate, J. Oliver and A. Huerta (Eds), ISBN/ISSN : 9788494284472, 2014.
     
 **Ph.D. Thesis**<br>
 *Modélisation mathématique et numérique de structures en présence de couplages linéaires multiphysiques* ﻿([link](https://theses.hal.science/tel-01786352/)).
