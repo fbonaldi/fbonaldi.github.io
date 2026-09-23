@@ -105,7 +105,7 @@ benchmark study**.<br>
     *Math. Mech. Solids* 22, 2017 ([link](https://journals.sagepub.com/doi/abs/10.1177/1081286515612885)).
     
 1.  F. Bonaldi, G. Geymonat, and F. Krasucki.<br>
-    **Modeling of smart materials with thermal effects: dynamic and quasi-static evolution.<br>
+    **Modeling of smart materials with thermal effects: dynamic and quasi-static evolution**.<br>
     *Math. Models Methods Appl. Sci.* 25, 2015 ([link](https://www.worldscientific.com/doi/abs/10.1142/S0218202515500578?srsltid=AfmBOooiZWtiCzZBsJdFRZb5zgVJw9dtzGvlxf4hQZV7Kq9OhV3lMp8w)).
     
 1.  F. Bonaldi and M. Frémond.<br>
