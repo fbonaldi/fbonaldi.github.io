@@ -101,7 +101,7 @@ benchmark study**.<br>
     *J. Numer. Math.* 26, 2017 ([link](https://www.degruyterbrill.com/document/doi/10.1515/jnma-2016-1020/html)).
     
 1.  F. Bonaldi, G. Geymonat, F. Krasucki, and M. Serpilli.<br>
-    An asymptotic plate model for magneto-electro-thermo-elastic sensors and actuators.<br>
+    **An asymptotic plate model for magneto-electro-thermo-elastic sensors and actuators**.<br>
     *Math. Mech. Solids* 22, 2017 ([link](https://journals.sagepub.com/doi/abs/10.1177/1081286515612885)).
     
 1.  F. Bonaldi, G. Geymonat, and F. Krasucki.<br>
