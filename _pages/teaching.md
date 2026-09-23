@@ -9,10 +9,18 @@ Teaching experience
 
 At the **University of Perpignan**:
 
-*  Coordinator of the first year of the **Master in HPC and Simulation** since 2023-2024.
+*  Coordinator of the first year of the **Master in HPC and Simulation** from 2023-2026.
+*  Coordinator of the first year of the **Bachelor in Mathematics** from 2026.
 
 * Instructor of the following classes:
-
+  * _Equations différentielles_ (L2) - 45 hours<br>
+  Lectures and tutorials for second-year undergraduate students in Mathematics, 2026-2027.
+  * _Algèbre linéaire_ (L1) - 24 hours<br>
+   Tutorials for first-year undergraduate students in Mathematics, 2026-2027.
+  * _Bases du raisonnement_ (L1) - 24 hours<br>
+    Tutorials for first-year undergraduate students in Mathematics, 2026-2027.
+  * _Topologie de \$\mathbb R^n\$_ (L2) - 18 hours<br>
+    Lectures for second-year undergraduate students in Mathematics, 2026-2027.
   * _Analyse et Calcul Numérique_ (L3) – 62 hours<br>
     Lectures, tutorials, and lab sessions for third-year undergraduate students in Mathematics, since 2022-2023.
   * _Initiation à la Modélisation_ (L3) – 12 hours<br>
