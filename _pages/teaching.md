@@ -19,7 +19,7 @@ At the **University of Perpignan**:
    Tutorials for first-year undergraduate students in Mathematics, 2026-2027.
   * _Bases du raisonnement_ (L1) - 24 hours<br>
     Tutorials for first-year undergraduate students in Mathematics, 2026-2027.
-  * _Topologie de \$\mathbb R^n\$_ (L2) - 18 hours<br>
+  * _Topologie des espaces normés_ (L2) - 18 hours<br>
     Lectures for second-year undergraduate students in Mathematics, 2026-2027.
   * _Analyse et Calcul Numérique_ (L3) – 62 hours<br>
     Lectures, tutorials, and lab sessions for third-year undergraduate students in Mathematics, since 2022-2023.
