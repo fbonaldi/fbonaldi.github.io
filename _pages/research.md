@@ -43,7 +43,7 @@ benchmark study**.<br>
 
 1. M. Barboteu, F. Bonaldi, S. Dumont, F. Jourdan, R. Mansour, T.H. Nguyen, and V.A.T. Nguyen.<br>
 **A unified semi-smooth Newton–PDAS framework for finite-strain contact with SMA-inspired transformation**.<br>
-*Comput. Methods Appl. Mech. Engrg.* 461, 2026 ([link](https://www.sciencedirect.com/science/article/pii/S0045782524000410)).
+*Comput. Methods Appl. Mech. Engrg.* 461, 2026 ([link](https://www.sciencedirect.com/science/article/pii/S0045782526004615)).
 
 
 1. M. Barboteu, F. Bonaldi, S. Dumont, and R. Mansour.<br>
